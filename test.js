@@ -1,0 +1,1 @@
+console.log('hellohello'.split('hello').join(''));
